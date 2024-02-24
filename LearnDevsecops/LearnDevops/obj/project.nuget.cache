@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "172lNeLn04dNIhJKTK5Y+EqFEBanRXKrmB8GEUjY0LX3PDrO72UefOC2h/R3cz3vB+aDRW0/COKngRkFajUMpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\LearnDevops\\LearnDevsecops\\LearnDevops\\LearnDevops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeswa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
